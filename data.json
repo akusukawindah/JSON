@@ -1,0 +1,26 @@
+{
+"7856": {
+"name": "Mobile",
+"brand": "Samaung",
+"model": "J4",
+"price": 500
+    },
+"4320": {
+"name": "Laptop",
+"brand": "HP",
+"model": "Pavilion 15",
+"price": 1000
+    },
+"9067": {
+"name": "Tablet",
+"brand": "Asus",
+"model": "CT100PA",
+"price": 200
+    },
+"1675": {
+"name": "Desktop",
+"brand": "Dell",
+"model": "None",
+"price": 700
+    }
+}
